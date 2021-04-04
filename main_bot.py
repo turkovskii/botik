@@ -3,7 +3,7 @@ import configparser
 from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CallbackQueryHandler, CommandHandler, MessageHandler, Filters
 import urllib.request
-LINK = 'https://ulkabo.github.io/bot-10-00/data/'
+LINK = 'https://turkovskii.github.io/botik/data/'
 '''
 TOK = None
 config = configparser.ConfigParser()
